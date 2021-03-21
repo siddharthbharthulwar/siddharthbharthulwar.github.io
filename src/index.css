@@ -19,7 +19,7 @@ body {
 /*JUMBOTRON*/
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
-  background-image: url("Img/flatirons.jpg"); /*background color to blue*/
+  /*background-image: url("Img/flatirons.jpg"); /*background color to blue*/
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

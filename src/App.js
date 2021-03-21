@@ -1,11 +1,12 @@
 import React from 'react'
+import {Route, BrowserRouter as Router, Switch, Link} from "react-router-dom"
+import Sidebar from './components/Sidebar'
+
 
 
 function App() {
   return (
-    <div class = "container">
-      <h1>Hi</h1>
-    </div>
+      <Sidebar></Sidebar>
   );
 }
 
