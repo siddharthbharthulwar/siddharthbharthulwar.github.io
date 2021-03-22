@@ -1,0 +1,70 @@
+{
+
+    "schools": [
+
+        {
+            "name" : "California Institute of Technology",
+            "shortenedName" : "Caltech",
+            "yearsAttended" : "2021 - 2025",
+            "imgFileName" : "caltech.png",
+            "location" : "Pasadena, CA",
+            "descriptor1" : "Bachelors of Science in Computer Science",
+            "descriptor2" : "Organizations"
+        },
+
+        {
+            "name" : "Fairview High School",
+            "shortenedName" : "Fairview",
+            "yearsAttended" : "2017 - 2021",
+            "imgFileName" : "fairview.png",
+            "location" : "Boulder, CO",
+            "descriptor1" : "National Merit Finalist, AP Scholar with Distinction, International Baccalaureate Program",
+            "descriptor2" : "GPA: 4.80/4.0, SAT: 1550, SAT Math II: 800"
+
+        },
+
+        {
+            "name" : "University of Colorado Boulder",
+            "shortenedName" : "CU Boulder",
+            "yearsAttended" : "2019 - 2020",
+            "imgFileName" : "cu.png",
+            "location" : "Boulder, CO",
+            "descriptor1" : "Dual Enrollment Student | Joseph E. Sewall Scholar",
+            "descriptor2" : "Relevant Coursework: Calculus 2 (MATH 2300) and Calculus 3 (MATH 2400)"
+
+        }
+
+    ],
+
+
+    "awards" : [
+
+        {
+            "name" : "Regeneron Science Talent Search (STS) Scholar",
+            "imgFileName" : "sts.png",
+            "date" : "January, 2021",
+            "description" : "Selected as one of the top 300 most promising young scientists/engineers in the nation's oldest and most prestigious research competition."
+        },
+
+        {
+            "name" : "Regeneron International Science and Engineering Fair (ISEF) Finalist",
+            "imgFileName" : "isef.png",
+            "date" : "February, 2021",
+            "description" : "Named a finalist in the largest and most prestigious precollegiate science/engineering fair in the world"
+
+        }
+    ],
+
+    "experiences" : [
+
+    ],
+
+    "projects" : [
+
+        {
+
+        }
+
+    ]
+
+}
