@@ -1,9 +1,19 @@
 import React from 'react'
+import data from '../../res/info.json'
+import School from '../School'
 
 const Education = () => {
+
+    const schools = data.schools
+
     return (
         <div>
-            <h1>Education</h1>
+
+            {schools.map((school, x) => (
+
+            <School school = {school} />
+            ))}
+
         </div>
     )
 }
