@@ -1,6 +1,6 @@
 body{font-family:"system-ui", sans-serif;font-size:1em;color:white; background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;background-color:#1b1b1b;line-height:1.5;overflow: hidden}
+  background-size: cover;background-color:#1b1b1b;line-height:1.5;}
 
 h1{font-size:2em}
 
@@ -11,7 +11,16 @@ h6{font-size:11px;font-weight:100}
 
 h1,h2,h3,h4,h5{font-family:"Rubik", sans-serif}
 
-header{min-width:250px;flex:0 0 auto;padding:10% 20px 50px 20px}
+header{min-width:250px;flex:0 0 auto;padding:10% 20px 50px 20px; }
+
+.header-outline {
+
+  height: 520px;
+  padding: 20px;
+  border: 1px solid grey;
+  border-radius: 20px;
+  position: fixed;
+}
 
 main{flex:1 1 auto;margin:0 0}.note{font-size:.5em}
 

@@ -40,7 +40,7 @@ function App() {
 	            "anim": {
 	                "enable": true,
 	                "speed": 1,
-	                "opacity_min": 0.05
+	                "opacity_min": 0.1
 	            }
 	        }
 	    },
@@ -61,6 +61,7 @@ function App() {
 	}}/>
       <div className = "wrapper">
         <header>
+          <div className = "header-outline">
           <div className = "author-name">
             <img className = "center_circle_image" src = {image.default}/>
             <h1>Sid Bharthulwar</h1>
@@ -75,6 +76,7 @@ function App() {
               <Link to = "/projects" style = {{margin: '5px', flex: '1 1 auto'}}>Projects</Link>
               <li class = "sidebar-nav-item"><a href = "./res/2020resume.pdf">Resume</a></li>
             </ul>
+          </div>
         </header>
         <main>
           <Switch>

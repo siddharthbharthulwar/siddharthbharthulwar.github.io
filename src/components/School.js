@@ -8,15 +8,13 @@ const School = ( { school } ) => {
         height: "150px",
         width: "1000px",
         color: "white",
-        borderRadius: "15px",
-        boxShadow: "0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)",
         marginLeft: "25px",
         textAlign: "left",
         position : "relative",
         marginBottom: "22px",
-        backdropFilter: "blur(11px)",
         lineHeight: "1.0",
-        backgroundColor: "#1b1b1b"
+        borderRadius: "25px",
+        border: "0.5px solid gray"
        
    }
 
@@ -35,7 +33,7 @@ const School = ( { school } ) => {
 
         float: "right",
         width: "84%",
-        paddingTop: "5px"
+        paddingTop: "10px"
 
    }
 
