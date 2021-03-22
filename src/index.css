@@ -1,4 +1,6 @@
-body{font-family:"system-ui", sans-serif;font-size:1em;color:white;background-color:#1b1b1b;line-height:1.7}
+body{font-family:"system-ui", sans-serif;font-size:1em;color:white; background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;background-color:#1b1b1b;line-height:1.5;overflow: hidden}
 
 h1{font-size:2em}
 
@@ -41,7 +43,7 @@ h2{margin:30px 0px 5px 0px}
 
 .sidebar-nav-item{margin:5px;flex:1 1 auto}
 
-.wrapper{display:flex;height:100vh;padding:0px 10px}
+.wrapper{display:flex;height:100vh;padding:0px 10px; z-index: 10; position: absolute;}
 
 a:link,a:visited,a:hover,a:active{color:#06f;text-decoration:none}
 
@@ -61,7 +63,7 @@ a:hover{text-decoration:underline}a#name-link{color:#46433A}
 
 .post-title{font-weight:bold;font-size:14px}
 
-.post-date{font-size:10px;color:#adadad;padding:4px}
+.post-date{font-size:10px;color:#adadad;padding:2px}
 
 .post-subtitle{margin-top:3px}
 
