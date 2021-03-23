@@ -46,20 +46,45 @@
             "name" : "Regeneron Science Talent Search (STS) Scholar",
             "imgFileName" : "sts.png",
             "date" : "January, 2021",
-            "description" : "Selected as one of the top 300 most promising young scientists/engineers in the nation's oldest and most prestigious research competition."
+            "description" : "Selected as one of the top 300 most promising young scientists/engineers in the nation's oldest and most prestigious research competition.",
+            "imgSize" : "100px"
         },
 
         {
             "name" : "Regeneron International Science and Engineering Fair (ISEF) Finalist",
             "imgFileName" : "isef.png",
             "date" : "February, 2021",
-            "description" : "Named a finalist in the largest and most prestigious precollegiate science/engineering fair in the world"
-
+            "description" : "Named a finalist in the largest and most prestigious precollegiate science/engineering fair in the world.",
+            "imgSize" : "100px"
         }
     ],
 
     "experiences" : [
 
+        {
+            "organization" : "University of Pennsylvania Medical School",
+            "role" : "Research Intern - CT Imaging",
+            "bullets" : [
+
+                "- Spearheaded novel deep learning models for few-view radiographic CT imaging, reducing radiation dosage by 95% and costs by 91%",
+                "- Presented to Penn Radiology faculty, submitted to 2021 Fully3D Imaging Conference, IEEE Transactions in Medical Imaging Journal (IF 10)",
+                "- 2021 Regeneron Science Talent Search (STS) Scholar, Regeneron International Science and Engineering Fair (ISEF) Finalist"
+            ],
+            "imgFileName" : "pennmedicine.png",
+            "imgSize" : "100px"
+        },
+
+        {
+            "organization" : "University of Colorado Boulder",
+            "role" : "Research Intern - Intelligent UAV Navigation",
+            "bullets" : [
+                "- Developed human-augmented UAS navigation and planning algorithms with Dr. Nisar Ahmed of Cooperative Human-Robot Intel Lab",
+                "- Built online sketch data collection portal for human-augmented navigational machine learning",
+                "- Projects sponsored/funded by US Department of Defense, NASA, and Raytheon"
+            ],
+            "imgFileName" : "cu.png",
+            "imgSize" : "100px"
+        }
     ],
 
     "projects" : [

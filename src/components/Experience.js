@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Award = ( { award } ) => {
+const Experience = ( { experience } ) => {
 
-    var image = require(`../img/${award.imgFileName}`)
+    var image = require(`../img/${experience.imgFileName}`)
 
     const schoolStyle = {
         height: "150px",
@@ -36,16 +36,19 @@ const Award = ( { award } ) => {
     return (
         <div style = {schoolStyle}>
             <div style = {leftStyle}>
-                <h1 style = {{color: 'rgb(227, 135, 45)'}}>{award.name}</h1>
-                <h3>{award.date}</h3>
-                <h4>{award.description}</h4>
-            </div>
+                <h1 style = {{color: 'rgb(227, 135, 45)'}}>{experience.organization}</h1>
+                <h3>{experience.role}</h3>
 
+                {experience.bullets.map((pt, x) => (
+
+                <h5>{pt}</h5>
+                ))}
+            </div>
             <div style = {rightStyle}>
-                <img src = {image.default} style = {{display: "block", marginLeft: "auto", marginRight: "auto", maxHeight: award.imgSize}} alt = {award.name} />
+                <img src = {image.default} style = {{display: "block", marginLeft: "auto", marginRight: "auto", maxHeight: experience.imgSize}} alt = {experience.organization} />
             </div>
         </div>
     )
 }
 
-export default Award
+export default Experience
