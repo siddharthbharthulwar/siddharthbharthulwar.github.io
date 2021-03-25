@@ -29,10 +29,12 @@ body {
   /*JUMBOTRON*/
   .jumbotron {
     height: 100vh; /*height to 100% of view height*/
+    background-color: rgb(17, 24, 39);
     background-image: url("img/flatirons.jpg"); /*background color to blue*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-opacity: 50%;
     margin-bottom: 0; /*no bottom margin*/
   
     display: flex;
