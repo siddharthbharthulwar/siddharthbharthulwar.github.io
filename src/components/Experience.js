@@ -41,7 +41,7 @@ const Experience = ( { experience } ) => {
 
                 {experience.bullets.map((pt, x) => (
 
-                <h5>{pt}</h5>
+                <h4>{pt}</h4>
                 ))}
             </div>
             <div style = {rightStyle}>

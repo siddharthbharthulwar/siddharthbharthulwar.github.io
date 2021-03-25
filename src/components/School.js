@@ -41,7 +41,7 @@ const School = ( { school } ) => {
                 <h1 style = {{color: 'rgb(227, 135, 45)'}}>{school.name}</h1>
 
                 <h3>{school.descriptor1}</h3>
-                <h5>{school.descriptor2}</h5>
+                <h4>{school.descriptor2}</h4>
 
             </div>
 
