@@ -43,19 +43,19 @@
     "awards" : [
 
         {
-            "name" : "Regeneron Science Talent Search (STS) Scholar",
-            "imgFileName" : "sts.png",
-            "date" : "January, 2021",
-            "description" : "Selected as one of the top 300 most promising young scientists/engineers in the nation's oldest and most prestigious research competition.",
-            "imgSize" : "100px"
-        },
-
-        {
             "name" : "Regeneron International Science and Engineering Fair (ISEF) Finalist",
             "imgFileName" : "isef.png",
             "date" : "February, 2021",
             "description" : "Named a finalist in the largest and most prestigious precollegiate science/engineering fair in the world.",
-            "imgSize" : "100px"
+            "imgSize" : "150px"
+        },
+
+        {
+            "name" : "Regeneron Science Talent Search (STS) Scholar",
+            "imgFileName" : "sts.png",
+            "date" : "January, 2021",
+            "description" : "Selected as one of the top 300 most promising young scientists/engineers in the nation's oldest and most prestigious research competition.",
+            "imgSize" : "150px"
         }
     ],
 
@@ -91,8 +91,18 @@
 
         {
 
-        }
+            "title" : "Convolutional Encoder-Decoder Networks for Single and Dual-View Radiographic CT Reconstructions",
+            "dates" : "2020 - 2021",
+            "imgFileName" : "sxr.jpg",
+            "accentColor" : "gray"
+        },
 
+        {
+            "title" : "SVS",
+            "dates" : "2019 - 2020",
+            "imgFileName"  :"svs.jpg",
+            "accentColor" : "black"
+        }
     ]
 
 }

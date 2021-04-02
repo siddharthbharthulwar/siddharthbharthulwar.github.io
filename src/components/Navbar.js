@@ -1,6 +1,6 @@
 import React from 'react'
 
-const StickyHeader = () => {
+const Navbar = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const StickyHeader = () => {
     )
 }
 
-export default StickyHeader
+export default Navbar
