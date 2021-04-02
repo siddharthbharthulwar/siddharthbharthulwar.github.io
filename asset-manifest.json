@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bharthulwar.com/static/css/main.bc5fcd05.chunk.css",
-    "main.js": "/bharthulwar.com/static/js/main.7516d242.chunk.js",
-    "main.js.map": "/bharthulwar.com/static/js/main.7516d242.chunk.js.map",
-    "runtime-main.js": "/bharthulwar.com/static/js/runtime-main.32a7e07c.js",
-    "runtime-main.js.map": "/bharthulwar.com/static/js/runtime-main.32a7e07c.js.map",
+    "main.js": "/bharthulwar.com/static/js/main.3f221e67.chunk.js",
+    "main.js.map": "/bharthulwar.com/static/js/main.3f221e67.chunk.js.map",
+    "runtime-main.js": "/bharthulwar.com/static/js/runtime-main.59db9f59.js",
+    "runtime-main.js.map": "/bharthulwar.com/static/js/runtime-main.59db9f59.js.map",
     "static/js/2.e0faeaf1.chunk.js": "/bharthulwar.com/static/js/2.e0faeaf1.chunk.js",
     "static/js/2.e0faeaf1.chunk.js.map": "/bharthulwar.com/static/js/2.e0faeaf1.chunk.js.map",
-    "static/js/3.c277a6d4.chunk.js": "/bharthulwar.com/static/js/3.c277a6d4.chunk.js",
-    "static/js/3.c277a6d4.chunk.js.map": "/bharthulwar.com/static/js/3.c277a6d4.chunk.js.map",
+    "static/js/3.d92151f3.chunk.js": "/bharthulwar.com/static/js/3.d92151f3.chunk.js",
+    "static/js/3.d92151f3.chunk.js.map": "/bharthulwar.com/static/js/3.d92151f3.chunk.js.map",
     "index.html": "/bharthulwar.com/index.html",
     "static/css/main.bc5fcd05.chunk.css.map": "/bharthulwar.com/static/css/main.bc5fcd05.chunk.css.map",
     "static/js/2.e0faeaf1.chunk.js.LICENSE.txt": "/bharthulwar.com/static/js/2.e0faeaf1.chunk.js.LICENSE.txt",
@@ -19,14 +19,16 @@
     "static/media/flatirons.jpg": "/bharthulwar.com/static/media/flatirons.924f2988.jpg",
     "static/media/isef.png": "/bharthulwar.com/static/media/isef.d6e115ce.png",
     "static/media/pennmedicine.png": "/bharthulwar.com/static/media/pennmedicine.e5b2b99f.png",
+    "static/media/rtd.jpg": "/bharthulwar.com/static/media/rtd.71f6f23f.jpg",
     "static/media/sts.png": "/bharthulwar.com/static/media/sts.8808ae2a.png",
     "static/media/svs.jpg": "/bharthulwar.com/static/media/svs.ea1e4e2a.jpg",
-    "static/media/sxr.jpg": "/bharthulwar.com/static/media/sxr.ba1b01e2.jpg"
+    "static/media/sxr.jpg": "/bharthulwar.com/static/media/sxr.ba1b01e2.jpg",
+    "static/media/sxr2.jpg": "/bharthulwar.com/static/media/sxr2.1a46a3c5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32a7e07c.js",
+    "static/js/runtime-main.59db9f59.js",
     "static/js/2.e0faeaf1.chunk.js",
     "static/css/main.bc5fcd05.chunk.css",
-    "static/js/main.7516d242.chunk.js"
+    "static/js/main.3f221e67.chunk.js"
   ]
 }
