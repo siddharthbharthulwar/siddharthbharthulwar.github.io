@@ -12,22 +12,57 @@ const Projects = () => {
         textAlign : "center"
     }
 
+    var oneProjects = []
+    var twoProjects = []
+    var threeProjects = []
+
+    for (var i = 0; i < projects.length; i++) {
+
+        if (i % 3 == 0){
+
+            oneProjects.push(projects[i]);
+
+        }
+
+        if (i % 3 == 1){
+
+            twoProjects.push(projects[i]);
+
+        }
+
+        if (i % 3 == 2){
+
+            threeProjects.push(projects[i]);
+
+        }
+
+
+    }
+
     return (
         <div style = {style}>
             <h2>Projects</h2>
 
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(2, 1fr)", gridGap: 5 }}>
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gridGap: 5 }}>
 
                 <div>
 
-                    {projects.map((project, x) => (
+                    {oneProjects.map((project, x) => (
+
+                    <Project project = {project} />
+                    ))}    
+                </div>
+
+                <div>
+
+                    {twoProjects.map((project, x) => (
 
                     <Project project = {project} />
                     ))}    
                 </div>
                 <div>
 
-                    {projects.map((project, x) => (
+                    {threeProjects.map((project, x) => (
 
                     <Project project = {project} />
                     ))}    

@@ -23,7 +23,7 @@ const Project = ( { project } ) => {
 
         zIndex: "150",
         position: "absolute",
-        paddingTop: "35px",
+        paddingTop: project.verticalOffset,
         paddingLeft: "35px",
         paddingRight: "35px",
         paddingBottom : "35px",

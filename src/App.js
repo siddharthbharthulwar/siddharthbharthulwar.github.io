@@ -8,14 +8,23 @@ import Awards from './components/pages/Awards.js'
 import Projects from './components/pages/Projects.js'
 
 const App = () => {
+
+  const style = {
+
+    marginLeft: "15%",
+    marginRight: "15%"
+  }
+
   return (
     <div className = 'container'>
         <Header />
-        <About />
-        <Education />
-        <Experiences />
-        <Awards />
-        <Projects />
+        <div style = {style}>
+          <About />
+          <Education />
+          <Experiences />
+          <Awards />
+          <Projects />
+        </div>
     </div>
   )
 }

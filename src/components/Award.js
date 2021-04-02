@@ -6,7 +6,7 @@ const Award = ( { award } ) => {
 
     const schoolStyle = {
         height: "150px",
-        width: "950px",
+        width: "1280px",
         color: "white",
         textAlign: "left",
         position : "relative",

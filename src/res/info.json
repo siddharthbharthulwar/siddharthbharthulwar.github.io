@@ -93,15 +93,26 @@
 
             "title" : "Convolutional Encoder-Decoder Networks for Single and Dual-View Radiographic CT Reconstructions",
             "dates" : "2020 - 2021",
-            "imgFileName" : "sxr.jpg",
-            "accentColor" : "gray"
+            "imgFileName" : "sxr2.jpg",
+            "accentColor" : "#333333",
+            "verticalOffset" : "30px"
         },
 
         {
-            "title" : "SVS",
+            "title" : "Development of a Novel Navigational and Visual Guidance System for Aircraft Operations in Low Visibility Conditions",
             "dates" : "2019 - 2020",
             "imgFileName"  :"svs.jpg",
-            "accentColor" : "black"
+            "accentColor" : "black",
+            "verticalOffset" : "20px"
+        },
+
+        {
+            "title" : "Live-Time Diagnostics Toolkit for the Mitigation and Monitoring of Bus Bunching in Denver RTD Buses",
+            "dates" : "2019 - 2021",
+            "imgFileName" : "rtd.jpg",
+            "accentColor" : "black",
+            "verticalOffset" : "30px"
+
         }
     ]
 

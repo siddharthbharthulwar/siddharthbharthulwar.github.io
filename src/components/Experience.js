@@ -6,11 +6,11 @@ const Experience = ( { experience } ) => {
 
     const schoolStyle = {
         height: "150px",
-        width: "950px",
+        width: "1280px",
         color: "white",
         textAlign: "left",
         position : "relative",
-        marginBottom: "22px",
+        marginBottom: "50px",
         lineHeight: "1.0",
         marginLeft: "auto",
         marginRight : "auto"
