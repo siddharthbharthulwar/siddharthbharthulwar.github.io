@@ -90,12 +90,29 @@
     "projects" : [
 
         {
+            "title" : "Adaptive College Admissions Timeline and Portal Aggregator",
+            "dates" : "2021",
+            "imgFileName" : "admissions.jpg",
+            "accentColor" : "black",
+            "verticalOffset" : "30px"
+        },
+
+        {
 
             "title" : "Convolutional Encoder-Decoder Networks for Single and Dual-View Radiographic CT Reconstructions",
             "dates" : "2020 - 2021",
             "imgFileName" : "sxr2.jpg",
-            "accentColor" : "#333333",
+            "accentColor" : "black",
             "verticalOffset" : "30px"
+        },
+
+        {
+            "title" : "COVID-19 Graphical Diagnostics and Prediction Toolkit",
+            "dates" : "2020",
+            "imgFileName" : "ncov.jpg",
+            "accentColor" : "black",
+            "verticalOffset": "30px"
+
         },
 
         {

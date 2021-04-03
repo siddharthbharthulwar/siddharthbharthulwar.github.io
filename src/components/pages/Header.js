@@ -9,7 +9,7 @@ const Header = () => {
             <div className="jumbotron-text">
                 <img className = "center_circle_image" src= {image.default} />
                 <h1>Siddharth Bharthulwar</h1>
-                <p>Student Researcher</p>
+                <p>Software Engineer, Researcher, and Innovator</p>
             </div>
 
             <div className="jumbotron-social">
