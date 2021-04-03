@@ -1,24 +1,26 @@
 {
   "files": {
     "main.css": "/bharthulwar.com/static/css/main.bc5fcd05.chunk.css",
-    "main.js": "/bharthulwar.com/static/js/main.0f7fb5c2.chunk.js",
-    "main.js.map": "/bharthulwar.com/static/js/main.0f7fb5c2.chunk.js.map",
-    "runtime-main.js": "/bharthulwar.com/static/js/runtime-main.14563efd.js",
-    "runtime-main.js.map": "/bharthulwar.com/static/js/runtime-main.14563efd.js.map",
-    "static/js/2.e0faeaf1.chunk.js": "/bharthulwar.com/static/js/2.e0faeaf1.chunk.js",
-    "static/js/2.e0faeaf1.chunk.js.map": "/bharthulwar.com/static/js/2.e0faeaf1.chunk.js.map",
-    "static/js/3.f103f190.chunk.js": "/bharthulwar.com/static/js/3.f103f190.chunk.js",
-    "static/js/3.f103f190.chunk.js.map": "/bharthulwar.com/static/js/3.f103f190.chunk.js.map",
+    "main.js": "/bharthulwar.com/static/js/main.a5abd404.chunk.js",
+    "main.js.map": "/bharthulwar.com/static/js/main.a5abd404.chunk.js.map",
+    "runtime-main.js": "/bharthulwar.com/static/js/runtime-main.1df3365f.js",
+    "runtime-main.js.map": "/bharthulwar.com/static/js/runtime-main.1df3365f.js.map",
+    "static/js/2.a8260dc4.chunk.js": "/bharthulwar.com/static/js/2.a8260dc4.chunk.js",
+    "static/js/2.a8260dc4.chunk.js.map": "/bharthulwar.com/static/js/2.a8260dc4.chunk.js.map",
+    "static/js/3.37853921.chunk.js": "/bharthulwar.com/static/js/3.37853921.chunk.js",
+    "static/js/3.37853921.chunk.js.map": "/bharthulwar.com/static/js/3.37853921.chunk.js.map",
     "index.html": "/bharthulwar.com/index.html",
     "static/css/main.bc5fcd05.chunk.css.map": "/bharthulwar.com/static/css/main.bc5fcd05.chunk.css.map",
-    "static/js/2.e0faeaf1.chunk.js.LICENSE.txt": "/bharthulwar.com/static/js/2.e0faeaf1.chunk.js.LICENSE.txt",
+    "static/js/2.a8260dc4.chunk.js.LICENSE.txt": "/bharthulwar.com/static/js/2.a8260dc4.chunk.js.LICENSE.txt",
     "static/media/2020resume.f292c127.pdf": "/bharthulwar.com/static/media/2020resume.f292c127.pdf",
     "static/media/Bharthulwar.Siddharth.Headshot.jpg": "/bharthulwar.com/static/media/Bharthulwar.Siddharth.Headshot.7cf83e73.jpg",
     "static/media/admissions.jpg": "/bharthulwar.com/static/media/admissions.8ccd7aaa.jpg",
     "static/media/caltech.png": "/bharthulwar.com/static/media/caltech.9cc03663.png",
     "static/media/cu.png": "/bharthulwar.com/static/media/cu.741aad66.png",
     "static/media/fairview.png": "/bharthulwar.com/static/media/fairview.26115a20.png",
+    "static/media/favicon.png": "/bharthulwar.com/static/media/favicon.cdf98163.png",
     "static/media/flatirons.jpg": "/bharthulwar.com/static/media/flatirons.924f2988.jpg",
+    "static/media/helpful.png": "/bharthulwar.com/static/media/helpful.6d1d8c5e.png",
     "static/media/isef.png": "/bharthulwar.com/static/media/isef.d6e115ce.png",
     "static/media/ncov.jpg": "/bharthulwar.com/static/media/ncov.50965b03.jpg",
     "static/media/pennmedicine.png": "/bharthulwar.com/static/media/pennmedicine.e5b2b99f.png",
@@ -29,9 +31,9 @@
     "static/media/sxr2.jpg": "/bharthulwar.com/static/media/sxr2.1a46a3c5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.14563efd.js",
-    "static/js/2.e0faeaf1.chunk.js",
+    "static/js/runtime-main.1df3365f.js",
+    "static/js/2.a8260dc4.chunk.js",
     "static/css/main.bc5fcd05.chunk.css",
-    "static/js/main.0f7fb5c2.chunk.js"
+    "static/js/main.a5abd404.chunk.js"
   ]
 }
