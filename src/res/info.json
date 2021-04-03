@@ -75,6 +75,17 @@
         },
 
         {
+            "organization" : "Helpful Engineering",
+            "role" : "International Representative & Admin Board Member",
+            "bullets" : [
+                "- One of the lead administrators within an international engineering incubator connecting over 19,000 doctors, engineers, scientists",
+                "- Led project with radiologists from Stanford Medical School for COVID-19 patient outcome based on preexisting medical records"
+            ],
+            "imgFileName" : "helpful.png",
+            "imgSize" : "100px"
+        }, 
+
+        {
             "organization" : "University of Colorado Boulder",
             "role" : "Research Intern - Intelligent UAV Navigation",
             "bullets" : [

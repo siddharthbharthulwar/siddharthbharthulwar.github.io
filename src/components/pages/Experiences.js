@@ -17,7 +17,7 @@ const Experiences = () => {
 
             {experiences.map((exp, x) => (
 
-            <Experience experience = {exp} />
+            <Experience experience = {exp} currentIndex = {x} length = {experiences.length}/>
             ))}
         </div>
     )
