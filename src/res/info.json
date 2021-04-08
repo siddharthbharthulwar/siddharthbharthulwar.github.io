@@ -3,12 +3,12 @@
     "schools": [
 
         {
-            "name" : "California Institute of Technology",
-            "shortenedName" : "Caltech",
+            "name" : "Harvard University",
+            "shortenedName" : "Harvard",
             "yearsAttended" : "2021 - 2025",
-            "imgFileName" : "caltech.png",
-            "imgSize" : "100px",
-            "location" : "Pasadena, CA",
+            "imgFileName" : "harvard.png",
+            "imgSize" : "110px",
+            "location" : "Cambridge, MA",
             "descriptor1" : "Bachelors of Science in Computer Science",
             "descriptor2" : "Organizations"
         },
@@ -112,7 +112,7 @@
 
             "title" : "Convolutional Encoder-Decoder Networks for Single and Dual-View Radiographic CT Reconstructions",
             "dates" : "2020 - 2021",
-            "imgFileName" : "sxr2.jpg",
+            "imgFileName" : "sxr2.png",
             "accentColor" : "black",
             "verticalOffset" : "30px"
         },
