@@ -6,7 +6,7 @@ const School = ( { school } ) => {
 
    const schoolStyle = {
         height: "150px",
-        width: "1280px",
+        width: "100%",
         color: "white",
         textAlign: "left",
         position : "relative",

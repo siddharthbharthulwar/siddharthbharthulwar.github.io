@@ -7,7 +7,7 @@ const Project = ( { project } ) => {
     const style = {
 
         height: "200px",
-        width: "400px",
+        width: "90%",
         overflow: 'hidden',
         color: "white",
         backgroundColor: project.accentColor,
