@@ -30,7 +30,8 @@ body {
   .jumbotron {
     height: 100vh; /*height to 100% of view height*/
     background-color: rgb(17, 24, 39);
-    background-image: url("img/flatirons.jpg"); /*background color to blue*/
+    filter: "brightness(50%)";
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("img/flatirons.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

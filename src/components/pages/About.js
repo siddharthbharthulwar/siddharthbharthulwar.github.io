@@ -1,5 +1,5 @@
 import React from 'react'
-import Pdf from '../../res/2020resume.pdf'
+import Pdf from '../../res/2021resume.pdf'
 
 const About = () => {
 
@@ -31,7 +31,7 @@ const About = () => {
     return (
         <div style = {style}>
             <h2>About Me</h2>
-            <h3 style = {{color: "white"}}>Hi! My name is Siddharth (Sid) Bharthulwar, and I'm a student researcher and software engineer. </h3>
+            <h4 style = {{color: "white", marginBottom : "25px"}}>Hi! My name is Siddharth (Sid) Bharthulwar, and I'm a student researcher and software engineer. </h4>
 
             <a href={Pdf} without rel="noopener noreferrer" target="_blank">
                 <button trailingIcon="picture_as_pdf" label="Resume" style = {buttonStyle}>
