@@ -43,6 +43,15 @@
     "awards" : [
 
         {
+            "name" : "Invited Presenter, 16th International Meeting on Fully-3D Nuclear Image Reconstruction",
+            "imgFileName" : "fully3d.png",
+            "date" : "March, 2021",
+            "description" : "Invited to present research at world's most prestigious and acclaimed conference on medical image reconstruction",
+            "imgSize" : "50px"
+
+        },
+
+        {
             "name" : "Regeneron International Science and Engineering Fair (ISEF) Finalist",
             "imgFileName" : "isef.png",
             "date" : "February, 2021",
@@ -110,7 +119,7 @@
 
         {
 
-            "title" : "Convolutional Encoder-Decoder Networks for Single and Dual-View Radiographic CT Reconstructions",
+            "title" : "Convolutional Encoder-Decoder Networks for Radiographic CT Reconstructions",
             "dates" : "2020 - 2021",
             "imgFileName" : "sxr2.png",
             "accentColor" : "black",
@@ -127,7 +136,7 @@
         },
 
         {
-            "title" : "Development of a Novel Navigational and Visual Guidance System for Aircraft Operations in Low Visibility Conditions",
+            "title" : "Novel Navigational and Visual Guidance System for Aircraft Operations in Low Visibility Conditions",
             "dates" : "2019 - 2020",
             "imgFileName"  :"svs.jpg",
             "accentColor" : "black",
@@ -135,7 +144,7 @@
         },
 
         {
-            "title" : "Live-Time Diagnostics Toolkit for the Mitigation and Monitoring of Bus Bunching in Denver RTD Buses",
+            "title" : "Live-Time Diagnostics Toolkit for Bus Bunching in Denver RTD Buses",
             "dates" : "2019 - 2021",
             "imgFileName" : "rtd.jpg",
             "accentColor" : "black",
