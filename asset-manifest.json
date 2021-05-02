@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1440f58e.chunk.css",
-    "main.js": "/static/js/main.09efcfc4.chunk.js",
-    "main.js.map": "/static/js/main.09efcfc4.chunk.js.map",
+    "main.js": "/static/js/main.231dc306.chunk.js",
+    "main.js.map": "/static/js/main.231dc306.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6a705e24.js",
     "runtime-main.js.map": "/static/js/runtime-main.6a705e24.js.map",
     "static/js/2.4122a8a3.chunk.js": "/static/js/2.4122a8a3.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.1440f58e.chunk.css.map": "/static/css/main.1440f58e.chunk.css.map",
     "static/js/2.4122a8a3.chunk.js.LICENSE.txt": "/static/js/2.4122a8a3.chunk.js.LICENSE.txt",
-    "static/media/2021resume.4369005d.pdf": "/static/media/2021resume.4369005d.pdf",
+    "static/media/2021resume.4570f36e.pdf": "/static/media/2021resume.4570f36e.pdf",
     "static/media/Bharthulwar.Siddharth.Headshot.jpg": "/static/media/Bharthulwar.Siddharth.Headshot.7cf83e73.jpg",
     "static/media/admissions.jpg": "/static/media/admissions.8ccd7aaa.jpg",
     "static/media/caltech.png": "/static/media/caltech.9cc03663.png",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.6a705e24.js",
     "static/js/2.4122a8a3.chunk.js",
     "static/css/main.1440f58e.chunk.css",
-    "static/js/main.09efcfc4.chunk.js"
+    "static/js/main.231dc306.chunk.js"
   ]
 }
