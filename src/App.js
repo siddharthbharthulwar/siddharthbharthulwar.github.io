@@ -6,6 +6,7 @@ import Education from './components/pages/Education.js'
 import Experiences from './components/pages/Experiences.js'
 import Awards from './components/pages/Awards.js'
 import Projects from './components/pages/Projects.js'
+import Footer from './components/pages/Footer.js'
 
 const App = () => {
 
@@ -24,6 +25,7 @@ const App = () => {
           <Experiences />
           <Awards />
           <Projects />
+          <Footer />
         </div>
     </div>
   )
