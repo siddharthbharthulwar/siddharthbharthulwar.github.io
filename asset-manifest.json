@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1440f58e.chunk.css",
-    "main.js": "/static/js/main.01b9b9be.chunk.js",
-    "main.js.map": "/static/js/main.01b9b9be.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6a705e24.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6a705e24.js.map",
-    "static/js/2.4122a8a3.chunk.js": "/static/js/2.4122a8a3.chunk.js",
-    "static/js/2.4122a8a3.chunk.js.map": "/static/js/2.4122a8a3.chunk.js.map",
-    "static/js/3.8395f8b8.chunk.js": "/static/js/3.8395f8b8.chunk.js",
-    "static/js/3.8395f8b8.chunk.js.map": "/static/js/3.8395f8b8.chunk.js.map",
+    "main.css": "/static/css/main.4af43fe3.chunk.css",
+    "main.js": "/static/js/main.d3823284.chunk.js",
+    "main.js.map": "/static/js/main.d3823284.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56b5bf1f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56b5bf1f.js.map",
+    "static/js/2.f0e066dc.chunk.js": "/static/js/2.f0e066dc.chunk.js",
+    "static/js/2.f0e066dc.chunk.js.map": "/static/js/2.f0e066dc.chunk.js.map",
+    "static/js/3.eed3a793.chunk.js": "/static/js/3.eed3a793.chunk.js",
+    "static/js/3.eed3a793.chunk.js.map": "/static/js/3.eed3a793.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1440f58e.chunk.css.map": "/static/css/main.1440f58e.chunk.css.map",
-    "static/js/2.4122a8a3.chunk.js.LICENSE.txt": "/static/js/2.4122a8a3.chunk.js.LICENSE.txt",
-    "static/media/2021resume.4570f36e.pdf": "/static/media/2021resume.4570f36e.pdf",
+    "static/css/main.4af43fe3.chunk.css.map": "/static/css/main.4af43fe3.chunk.css.map",
+    "static/js/2.f0e066dc.chunk.js.LICENSE.txt": "/static/js/2.f0e066dc.chunk.js.LICENSE.txt",
+    "static/media/2021resume.7deb4590.pdf": "/static/media/2021resume.7deb4590.pdf",
     "static/media/Bharthulwar.Siddharth.Headshot.jpg": "/static/media/Bharthulwar.Siddharth.Headshot.7cf83e73.jpg",
     "static/media/admissions.jpg": "/static/media/admissions.8ccd7aaa.jpg",
     "static/media/caltech.png": "/static/media/caltech.9cc03663.png",
@@ -35,9 +35,9 @@
     "static/media/sxr2.png": "/static/media/sxr2.ee026424.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a705e24.js",
-    "static/js/2.4122a8a3.chunk.js",
-    "static/css/main.1440f58e.chunk.css",
-    "static/js/main.01b9b9be.chunk.js"
+    "static/js/runtime-main.56b5bf1f.js",
+    "static/js/2.f0e066dc.chunk.js",
+    "static/css/main.4af43fe3.chunk.css",
+    "static/js/main.d3823284.chunk.js"
   ]
 }
