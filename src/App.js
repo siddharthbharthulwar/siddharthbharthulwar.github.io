@@ -1,4 +1,5 @@
-import React from 'react'
+import React, {componen} from 'react'
+import { useState } from 'react'
 import './index.css'
 import Header from './components/pages/Header.js'
 import About from './components/pages/About.js'
@@ -7,9 +8,12 @@ import Experiences from './components/pages/Experiences.js'
 import Awards from './components/pages/Awards.js'
 import Projects from './components/pages/Projects.js'
 import Footer from './components/pages/Footer.js'
+import Popup from './components/Popup.js'
 
-const App = () => {
+function App (props) {
 
+  const [buttonPopup, setButtonPopup] = useState(false)
+  const [popupIndex, setPopupIndex] = useState("")
   const style = {
 
     marginLeft: "15%",
@@ -24,7 +28,9 @@ const App = () => {
           <Education />
           <Experiences />
           <Awards />
-          <Projects />
+          <Projects trigger = {buttonPopup} setTrigger = {setButtonPopup} index = {popupIndex} setIndex = {setPopupIndex}/>
+          <Popup index = {popupIndex} trigger = {buttonPopup} setTrigger = {setButtonPopup}>
+          </Popup>
           <Footer />
         </div>
     </div>

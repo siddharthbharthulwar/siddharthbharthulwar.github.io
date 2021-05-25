@@ -2,7 +2,7 @@ import React from 'react'
 import data from '../../res/info.json'
 import Project from '../Project'
 
-const Projects = () => {
+const Projects = (props) => {
 
     const projects = data.projects
 
@@ -49,7 +49,7 @@ const Projects = () => {
 
                     {oneProjects.map((project, x) => (
 
-                    <Project project = {project} />
+                    <Project project = {project} trigger = {props.trigger} setTrigger = {props.setTrigger} index = {props.index} setIndex = {props.setIndex}/>
                     ))}    
                 </div>
 
@@ -57,14 +57,14 @@ const Projects = () => {
 
                     {twoProjects.map((project, x) => (
 
-                    <Project project = {project} />
+                    <Project project = {project} trigger = {props.trigger} setTrigger = {props.setTrigger} index = {props.index} setIndex = {props.setIndex}/>
                     ))}    
                 </div>
                 <div>
 
                     {threeProjects.map((project, x) => (
 
-                    <Project project = {project} />
+                    <Project project = {project} trigger = {props.trigger} setTrigger = {props.setTrigger} index = {props.index} setIndex = {props.setIndex}/>
                     ))}    
                 </div>
             </div>
