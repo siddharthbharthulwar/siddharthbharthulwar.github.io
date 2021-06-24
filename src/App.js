@@ -9,6 +9,7 @@ import Awards from './components/pages/Awards.js'
 import Projects from './components/pages/Projects.js'
 import Footer from './components/pages/Footer.js'
 import Popup from './components/Popup.js'
+import SideHeader from './components/pages/SideHeader.js'
 
 function App (props) {
 

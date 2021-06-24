@@ -4,6 +4,7 @@ const Header = () => {
 
     var image = require('../../img/Bharthulwar.Siddharth.Headshot.jpg')
 
+
     return (
         <div className="jumbotron">
             <div className="jumbotron-text">

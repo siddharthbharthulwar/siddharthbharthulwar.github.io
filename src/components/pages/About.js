@@ -3,8 +3,6 @@ import Pdf from '../../res/2021resume.pdf'
 
 const About = () => {
 
-    var image = require('../../img/casual.jpg')
-
     const style = {
 
         alignItems: "center",

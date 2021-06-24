@@ -3,7 +3,6 @@ import './Popup.css'
 
 function Popup(props) {
 
-    var image = require('../img/' + props.index.imgFileName)
 
     return (props.trigger) ? (
         
@@ -12,7 +11,6 @@ function Popup(props) {
                 <i class="fa fa-times" style = {{cursor: "pointer"}}aria-hidden="true" onClick = {() => props.setTrigger(false)}></i>
                 <h1>{props.index.title}</h1>
                 <h3>{props.index.dates}</h3>
-                <img src = {image.default}></img>
             </div>
         </div>
     ) : "";
