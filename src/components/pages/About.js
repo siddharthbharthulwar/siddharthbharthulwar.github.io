@@ -35,7 +35,7 @@ const About = () => {
         <div style = {style}>
             <h2>About Me</h2>
             <div style = {{float: "right"}}>
-                <h4 style = {{color: "white", marginBottom : "25px"}}>Hi! My name is Siddharth (Sid) Bharthulwar, and I'm an incoming freshman at Harvard College. Previously, I conducted research at the University of Pennsylvania's Medical School and the University of Colorado Boulder.</h4>
+                <h4 style = {{color: "white", marginBottom : "25px"}}>Hi! My name is Siddharth (Sid) Bharthulwar, and I'm an incoming freshman at Harvard College. I'm currently interning at Unsupervised, working as a software engineer on the web apps development team. Previously, I conducted research at the University of Pennsylvania's Medical School and the University of Colorado Boulder.</h4>
 
                 <a href={Pdf} without rel="noopener noreferrer" target="_blank">
                     <button trailingIcon="picture_as_pdf" label="Resume" style = {buttonStyle}>
